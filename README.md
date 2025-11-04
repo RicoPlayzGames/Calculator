@@ -1,3 +1,3 @@
 # Calculator
 # Info
-The link doesnt seem to be loading in the calculator like it should. ERROR code: 404: NOT FOUND for vercel link
+The link has been fixed with the most recent calculator remodelling
